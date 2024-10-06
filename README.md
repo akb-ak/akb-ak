@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @akb-ak
+- 👀 I’m interested in everything computers! I love microcomputers and SBCs
+- 🌱 I’m currently learning python and C#, I dablle in a little bit of javascript too.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: By total area, Canada is the world’s second largest country. Only Russia is larger.
